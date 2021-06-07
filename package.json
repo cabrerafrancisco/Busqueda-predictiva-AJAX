@@ -1,0 +1,23 @@
+{
+  "name": "busqueda-predictiva-ajax",
+  "version": "1.0.0",
+  "description": "busqueda de paises consumiendo ajax, con sugerencias en el buscador",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabrerafrancisco/Busqueda-predictiva-AJAX.git"
+  },
+  "author": "francisco cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabrerafrancisco/Busqueda-predictiva-AJAX/issues"
+  },
+  "homepage": "https://github.com/cabrerafrancisco/Busqueda-predictiva-AJAX#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
