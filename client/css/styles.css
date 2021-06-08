@@ -1,0 +1,15 @@
+body{
+    display: block;
+}
+img{
+    width: 30px;
+    margin: 10px;
+}
+.cajaPais{
+    border: 2px solid red;
+    text-decoration: underline;
+    max-width: 40%;
+}
+.click{
+    cursor: pointer;
+}
